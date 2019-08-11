@@ -3,7 +3,7 @@ package sort;
 import org.junit.Test;
 
 /**
- * @author 豪
+ * @author Brent
  * @title: MergeSort
  * @projectName interview
  * @description: Implement Merge sort
